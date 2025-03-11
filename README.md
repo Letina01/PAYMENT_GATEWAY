@@ -13,7 +13,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Letina01/PAYMENT_GATEWAY
 cd repo-name
 Install dependencies:
 
